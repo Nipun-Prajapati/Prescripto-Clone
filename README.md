@@ -1,2 +1,2 @@
 # Prescripto-Clone
-This is a clone of Prescripto using React.
+This is a clone of Prescripto using React & Tailwind CSS.
